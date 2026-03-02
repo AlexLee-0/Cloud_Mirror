@@ -1,0 +1,6 @@
+[Settings]
+local_folder = Пусть к папке для синхронизации на ПК
+cloud_folder = Название папки в облаке
+token = ВАШ_ТОКЕН_ОТ_YANDEX_DISK
+sync_interval = Интервал синхронизации в секундах
+log_file = Путь к файлу логов
